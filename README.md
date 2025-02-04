@@ -1,2 +1,1 @@
 # Face_Detection
-CNN
